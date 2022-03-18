@@ -6,16 +6,6 @@ public class GesNotas {
 
 	static Scanner teclado= new Scanner(System.in);		
 	
-		/*Realiza un programa que solicite a un usuario 10 notas y permita elegir a través de un
-		Menú las siguientes opciones:
-		- Mostrar todas las notas introducidas.
-		- Ordenar de menor a mayor las notas.
-		- Buscar una nota en la lista.
-		- Mostrar la nota media.
-		- Mostrar el número de aprobados.
-		- Mostrar la nota más alta.
-		El menú se mostrará tras cada elección hasta que el usuario introduzca un 0.
-		Cada opción se debe implementar en un método.	*/
 
 	    public static void main (String []args){
 	    	
@@ -73,15 +63,7 @@ public class GesNotas {
         }
 	    
 	
-		public static void opcionUno(double[]notas) {
-			
-			//Ordenando 
-		//	Arrays.sort(notas);
-			
-			//posicion = Arrays.binarySearch(notas, buscar);
-			//System.out.println("Array ordenado");
-			
-		}
+	
 	}
        	
 
