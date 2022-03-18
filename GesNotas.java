@@ -52,16 +52,7 @@ public class GesNotas {
       
        	
        	}
-	    
-	 
-        public static void inicializarVector(double[]notas) {
-         for (int i= 0; i<notas.length; i++) {
-        	 System.out.print("Ingresar notas: ");
-        	 double num= teclado.nextDouble();
-        	
-      }   
-        }
-	    
+	    	    
 	
 	
 	}
